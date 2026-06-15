@@ -1,0 +1,13 @@
+# Нормализация переводов строк
+* text=auto eol=lf
+
+# Файлы проекта Xcode
+*.pbxproj   text eol=lf
+*.xcscheme  text eol=lf
+*.plist     text eol=lf
+*.entitlements text eol=lf
+
+# Бинарные ресурсы
+*.png  binary
+*.icns binary
+*.dmg  binary

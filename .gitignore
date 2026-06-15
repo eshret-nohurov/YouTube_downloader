@@ -1,0 +1,32 @@
+# ── macOS ────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# ── Xcode: артефакты сборки ──────────────────────────────
+build/
+DerivedData/
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM
+*.dSYM.zip
+
+# ── Xcode: пользовательское состояние (общие схемы остаются) ─
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+*.xccheckout
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# ── Swift Package Manager ────────────────────────────────
+.build/
+.swiftpm/
+Packages/
+
+# ── Прочее ───────────────────────────────────────────────
+*.log
